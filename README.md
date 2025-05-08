@@ -1,4 +1,4 @@
-# Medusa_Your_And_Haircare_Assistant
+# Medusa_Your_Skincare_And_Haircare_Assistant
 
 ## **1. Introduction**
 
